@@ -1,10 +1,15 @@
 # Add Lion Optimizer
 
-This new branch is to show how to integrate Lion Optimizer into Ultralytics YOLO models.
+This is to show how to integrate a new Lion optimizer into Ultralytics YOLO models.
+
+- Followed this video: https://www.bilibili.com/video/BV1Yu4y1U79i/
 
 1. Download `lion_pytorch.py` from https://github.com/google/automl/blob/master/lion/lion_pytorch.py and place it as `ultralytics/engine/lion_pytorch.py`
 2. Add `Lion` to the `Trainer` class in `ultralytics/engine/trainer.py`
 3. Add `train.py` to run the training with Lion Optimizer
+
+---
+
 
 <div align="center">
   <p>
