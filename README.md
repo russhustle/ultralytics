@@ -1,3 +1,9 @@
+# Add NN Block SPPFCSPC to YOLOv8
+
+- https://blog.csdn.net/weixin_62371528/article/details/136353061
+
+---
+
 <div align="center">
   <p>
     <a href="https://www.ultralytics.com/events/yolovision" target="_blank">
